@@ -17,3 +17,6 @@ coverage.*
 init.sh
 workflows.md
 images
+^r.pkg.template\.Rcheck$
+^r.pkg.template.*\.tar\.gz$
+^r.pkg.template.*\.tgz$

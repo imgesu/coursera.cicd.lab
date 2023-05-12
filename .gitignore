@@ -31,3 +31,6 @@ coverage.*
 node_modules/
 package-lock.json
 package.json
+r.pkg.template.Rcheck/
+r.pkg.template*.tar.gz
+r.pkg.template*.tgz
